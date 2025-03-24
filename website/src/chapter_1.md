@@ -1,3 +1,3 @@
 # about me
 
-{% embed form %}
+{% embed app form %}
